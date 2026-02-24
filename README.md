@@ -117,7 +117,7 @@
    ```
 4. Откройте Jupyter Notebook:
    ```bash
-   jupyter notebook "План проекта. Прогнозирование температуры стали.ipynb"
+   jupyter notebook "steel-temperature-prediction.ipynb"
    ```
 
 ## Структура репозитория
@@ -133,7 +133,7 @@ steel-temperature-prediction/
 │   ├── data_wire_new.csv
 │   └── data_wire_time_new.csv
 ├── notebooks/                      # Jupyter ноутбук
-│   └── Прогнозирование температуры стали.ipynb
+│   └── steel-temperature-prediction.ipynb
 ├── README.md                       # Этот файл
 ├── requirements.txt                # Список зависимостей
 └── catboost_info/                  # Служебная папка CatBoost (создаётся при обучении)
