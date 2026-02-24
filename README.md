@@ -105,7 +105,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-username/steel-temperature-prediction.git
+   git clone https://github.com/arseniybartenev/steel-temperature-prediction.git
    ```
 2. Перейдите в папку проекта:
    ```bash
