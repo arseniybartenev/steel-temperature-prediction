@@ -135,8 +135,7 @@ steel-temperature-prediction/
 ├── notebooks/                      # Jupyter ноутбук
 │   └── steel-temperature-prediction.ipynb
 ├── README.md                       # Этот файл
-├── requirements.txt                # Список зависимостей
-└── catboost_info/                  # Служебная папка CatBoost (создаётся при обучении)
+└── requirements.txt                # Список зависимостей
 ```
 
 ## Контакты
