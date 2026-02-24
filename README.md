@@ -1,9 +1,15 @@
 # Steel Temperature Prediction
 
-![Python](https://img.shields.io/badge/Python-3.9-blue)
-![Pandas](https://img.shields.io/badge/Pandas-1.3.5-green)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.0.2-orange)
-![CatBoost](https://img.shields.io/badge/CatBoost-1.0.6-red)
+![Python](https://img.shields.io/badge/Python-3.9-3776AB?logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-2.4.2-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-3.0.1-150458?logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.8.0-11557c?logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.13.2-4c72b0?logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1.8.0-F7931E?logo=scikit-learn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-4.6.0-3d9c3d?logo=lightgbm&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-1.2.8-ff4b4b?logo=catboost&logoColor=white)
+![Phik](https://img.shields.io/badge/Phik-0.12.5-6f42c1?logo=python&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-0.46.0-20c997?logo=python&logoColor=white)
 
 ## Описание проекта
 
